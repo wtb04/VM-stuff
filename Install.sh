@@ -12,3 +12,4 @@ sudo apt-get upgrade -y
 
 #Bash_profile aanzetten
 curl -o .bash_profile https://raw.githubusercontent.com/wtb04/VM-stuff/main/.bash_profile
+touch .hushlogin
