@@ -48,3 +48,4 @@ function mkcd()
 alias lsa="ls -a" #
 alias stats="htop"
 alias speed="speedtest"
+alias cl="clear"
