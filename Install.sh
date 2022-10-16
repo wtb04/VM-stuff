@@ -1,9 +1,9 @@
 # Install fortume mod and cowsay
 sudo apt-get update
-sudo apt install cowsay fortune-mod
+sudo apt install cowsay fortune-mod -Y
 
 #Install speedtest cli
-sudo apt-get install curl
+sudo apt-get install curl -Y
 curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
 sudo apt-get install speedtest
 
